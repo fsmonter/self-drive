@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training_data</folder>
+	<filename>4238.png</filename>
+	<path>/Users/dalila/Projects/nvidia model/data/training_data/4238.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>56</ymin>
+			<xmax>133</xmax>
+			<ymax>95</ymax>
+		</bndbox>
+	</object>
+</annotation>

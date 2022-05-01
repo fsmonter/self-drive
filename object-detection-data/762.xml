@@ -1,0 +1,38 @@
+<annotation>
+	<folder>training_data</folder>
+	<filename>762.png</filename>
+	<path>/Users/dalila/Projects/nvidia model/data/training_data/762.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>5</ymin>
+			<xmax>40</xmax>
+			<ymax>116</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>right arrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>6</ymin>
+			<xmax>160</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+</annotation>

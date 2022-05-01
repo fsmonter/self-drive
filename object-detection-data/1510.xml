@@ -1,0 +1,38 @@
+<annotation>
+	<folder>training_data</folder>
+	<filename>1510.png</filename>
+	<path>/Users/dalila/Projects/nvidia model/data/training_data/1510.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green light</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>18</ymin>
+			<xmax>60</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>50</ymin>
+			<xmax>245</xmax>
+			<ymax>64</ymax>
+		</bndbox>
+	</object>
+</annotation>

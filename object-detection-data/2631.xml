@@ -1,0 +1,38 @@
+<annotation>
+	<folder>training_data</folder>
+	<filename>2631.png</filename>
+	<path>/Users/dalila/Projects/nvidia model/data/training_data/2631.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>left arrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>20</ymin>
+			<xmax>233</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>left arrow</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>30</ymin>
+			<xmax>307</xmax>
+			<ymax>89</ymax>
+		</bndbox>
+	</object>
+</annotation>
