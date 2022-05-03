@@ -1,0 +1,34 @@
+item {
+    id: 1
+    name: 'box'
+}
+
+item {
+    id: 2
+    name: 'green light'
+}
+
+item {
+    id: 3
+    name: 'left arrow'
+}
+
+item {
+    id: 4
+    name: 'person'
+}
+
+item {
+    id: 5
+    name: 'red light'
+}
+
+item {
+    id: 6
+    name: 'right arrow'
+}
+
+item {
+    id: 7
+    name: 'tree'
+}
