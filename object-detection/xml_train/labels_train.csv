@@ -267,7 +267,7 @@ filename,width,height,class,xmin,ymin,xmax,ymax
 364.png,320,240,person,240,45,250,67
 1814.png,320,240,red light,37,6,78,106
 1814.png,320,240,person,242,5,259,56
-1814.png,320,240,w,276,15,291,63
+1814.png,320,240,person,276,15,291,63
 1343.png,320,240,left arrow,153,12,182,60
 1343.png,320,240,left arrow,217,15,246,65
 9.png,320,240,person,142,15,191,125
