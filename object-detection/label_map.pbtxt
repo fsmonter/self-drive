@@ -32,8 +32,3 @@ item {
     id: 7
     name: 'tree'
 }
-
-item {
-    id: 8
-    name: 'w'
-}
